@@ -1,0 +1,16 @@
+WEEKLY PERFORMANCE REPORT (Week 2)
+Section: LEVEL
+----------------------------------
+Player:                               Alex
+Age:                                    21
+Total training:                          3
+Avg training:                          1.5
+Avg sleep:                               4
+Level:                             Amateur
+Readiness:                               0
+Advice:               Build base: 3 sessions + 8h sleep.
+
+Session details:
+Session   Hours          
+1         2              
+2         1              
