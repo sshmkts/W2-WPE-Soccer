@@ -1,6 +1,6 @@
 [![Unit Tests](https://github.com/sshmkts/W2-WPE-Soccer/actions/workflows/tests.yml/badge.svg)](https://github.com/sshmkts/W2-WPE-Soccer/actions/workflows/tests.yml)
 
-# Weekly Performance Evaluator (Week 2)
+# Weekly Performance Evaluator (Week 3)
 
 The program evaluates a soccer player's weekly training performance based on:
 - Training sessions (hours per session)
